@@ -1,2 +1,3 @@
 *.html linguist-detectable=false
 *.HTML linguist-detectable=false 
+.gitattributes export-ignore
